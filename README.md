@@ -45,6 +45,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kushichowdary&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" />
 </div>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushichowdary&theme=radical" alt="GitHub Streak" />
+</p>
+
 ---
 
 <div align="center">
@@ -65,6 +69,12 @@
 </p>
 
 ---
+
+### Recent GitHub Activity
+[![kushi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kushichowdary&theme=merko)](https://github.com/kushichowdary)
+
+---
+
 ### Print
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E7FF&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);print(%22Hello+World!%22);console.log(%22Hello+World!%22);Console.WriteLine(%22Hello+World!%22);printf(%22Hello+World!%22);echo+%22Hello+World!%22" alt="Typing Animation" />
