@@ -67,18 +67,16 @@
 ---
 ### Print
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E7FF&center=true&vCenter=true&width=600&lines=Compiling+Thoughts...;Executing+New+Ideas...;System.out.println(%22Hello+World!%22);print(%22Hello+World!%22);console.log(%22Hello+World!%22);Console.WriteLine(%22Hello+World!%22);printf(%22Hello+World!%22);echo+%22Hello+World!%22" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E7FF&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);print(%22Hello+World!%22);console.log(%22Hello+World!%22);Console.WriteLine(%22Hello+World!%22);printf(%22Hello+World!%22);echo+%22Hello+World!%22" alt="Typing Animation" />
 </div>
-
 
 
 <div align="center">
   <i>“Stay curious, stay consistent, and keep coding.”</i> ✨
 </div>
 
+<br>
 
-
- <!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kushichowdary&label=Profile%20views&color=0e75b6&style=flat" alt="kushichowdary" />
 </p>
