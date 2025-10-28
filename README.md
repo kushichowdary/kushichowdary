@@ -20,8 +20,9 @@
 
 ### About Me
 <div align="left">
-  <img align="right" src="https://github.com/user-attachments/assets/b2d7b1f8-c63a-4e68-bda6-76be576b259d" width="300" alt="Coding animation"/>
-- I’m currently pursuing a B.Tech in Computer Science Engineering from KL UNIVERSITY, Guntur (2023–2026).  
+<img align="right" src="https://github.com/user-attachments/assets/b2d7b1f8-c63a-4e68-bda6-76be576b259d" width="320" alt="Coding animation" style="margin-left:15px; margin-bottom: 10px; border-radius: 5px;"/>
+- I’m currently pursuing a B.Tech in Computer Science Engineering from KL UNIVERSITY,
+  Guntur (2023–2026).  
   
 - **Core Languages**:JavaScript, TypeScript, Python, SQL, Java.  
 
@@ -76,20 +77,22 @@
 ---
 
 ### Print
-<div align="center">
-  <img align="right" src="https://github.com/user-attachments/assets/6eaeb1d2-9384-4163-8fac-dcd1fb03f217" width="200" alt="Coding animation"/>
+  <div align="center" style="position: relative;">
+        <img src="https://github.com/user-attachments/assets/6eaeb1d2-9384-4163-8fac-dcd1fb03f217" width="350" alt="Coding animation"/>
+  </div>
+<div align="center" style="position: relative;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E7FF&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);print(%22Hello+World!%22);console.log(%22Hello+World!%22);Console.WriteLine(%22Hello+World!%22);printf(%22Hello+World!%22);echo+%22Hello+World!%22" alt="Typing Animation" />
 </div>
 
 
 <div align="center">
-  <i>“Stay curious, stay consistent and keep coding.”</i> ✨
+  <i>“Stay curious, stay consistent and keep coding.”</i> ✨
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kushichowdary&label=Profile%20views&color=0e75b6&style=flat" alt="kushichowdary" />
+  <img src="https://komarev.com/ghpvc/?username=kushichowdary&label=Profile%20views&color=0e75b6&style=flat" alt="kushichowdary" />
 </p>
 
 ---
