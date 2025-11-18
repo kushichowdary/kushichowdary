@@ -43,18 +43,20 @@
 
 ###  GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kushichowdary&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kushichowdary&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="190" alt="stats graph" />
+<br>
+  <img src="https://streak-stats.demolab.com?user=kushichowdary&theme=transparent&hide_border=true&short_numbers=true" alt="GitHub Streak" />
 </div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushichowdary&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ---
 
+### Contribution Snake
 <div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+       style="max-width: 100%;"
+       alt="snake animation"/>
 </div>
+
 
 ---
 
@@ -73,7 +75,7 @@
 
 
 ### Recent GitHub Activity
-[![kushi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kushichowdary&theme=merko)](https://github.com/kushichowdary)
+[![kushi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kushichowdary&theme=github-compact)](https://github.com/kushichowdary)
 
 ---
 
@@ -91,7 +93,7 @@
 ---
 
 
-### Print
+### Where Passion Started
   <div align="center" style="position: relative;">
         <img src="https://github.com/user-attachments/assets/6eaeb1d2-9384-4163-8fac-dcd1fb03f217" width="250" alt="Coding animation"/>
   </div>
